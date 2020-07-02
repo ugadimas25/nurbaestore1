@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'http://35.225.93.21/',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'd1m4s-db',
 	'database' => 'sulaiman_co',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
